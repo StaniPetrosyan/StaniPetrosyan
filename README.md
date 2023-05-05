@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm Stanislav
 
-<p align="center" style="margin-top: 3rem;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stanipetrosyan" /></p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stanipetrosyan&count_private=true&theme=radical)
+
 
 <!--
 **StaniPetrosyan/StaniPetrosyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
